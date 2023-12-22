@@ -1,0 +1,32 @@
+.col-1{
+    background-color: aqua;
+    height: 100vh;
+    opacity: 0.9;
+    box-shadow: -2px 2px 4px rgba(145, 146, 145, 0.2), 2px -2px 4px rgba(145, 146, 145, 0.2), -2px -2px 4px rgba(255, 255, 255, 0.9), 2px 2px 5px rgba(145, 146, 145, 0.9), inset 1px 1px 2px rgba(255, 255, 255, 0.3), inset -1px -1px 2px rgba(145, 146, 145, 0.5);
+}
+.logo-sidebar{
+    margin-left: 9%;
+}
+.side-list{
+    margin-top: 30%;
+    list-style: none;
+    font-family: fantasy;
+}
+.dash{
+    font-size: x-large;
+}
+.logout-btn{
+    border-style: none;
+    border-radius: 8px;
+    width: 90px;
+    height: 40px;
+    margin-top: 140%;
+    margin-left: 30%;
+}
+
+.add-blog{
+    font-size: 30px;
+    font-family: cursive;
+    margin-left: 16%;
+}
+
